@@ -75,6 +75,12 @@ nav ul li ul li a:hover{
     width:100%;
 }
 
+u {
+    
+    color: #474747;
+    
+}
+
 
 
 .img-info {
@@ -111,7 +117,7 @@ nav ul li ul li a:hover{
 .projects,
 .jobs,
 .education {
-  margin-bottom: 20px;
+    padding: 30px 30px 20px;
 }
 
 .right-side {
@@ -197,7 +203,7 @@ nav ul li ul li a:hover{
 
 .experience-item {
   color: #2a2a2a;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.714;
 }
 
